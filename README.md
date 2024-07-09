@@ -335,7 +335,7 @@ git clone https://github.com/UmamiAppearance/BaseExJS.git
 
 ### npm
 ```console
-nmp install base-ex
+npm install base-ex
 ```
 
 ## Builds
